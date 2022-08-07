@@ -17,6 +17,6 @@
   },
   "stub": {
     "versionCode": "7",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/256157c08ba56ad85a454ea4b28a946855348c22/stub-release.apk"
   }
 }
